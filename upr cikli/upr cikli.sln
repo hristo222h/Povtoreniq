@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upr cikli", "upr cikli.csproj", "{61ADC390-2F6A-4807-8E8F-30CD8A875469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upr cikli1", "..\upr cikli1\upr cikli1.csproj", "{9B9D0896-D1A7-44ED-984B-69F9AA6BFFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upr cikli2", "..\upr cikli2\upr cikli2.csproj", "{C674F008-862A-4238-865B-B39BF9D639C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61ADC390-2F6A-4807-8E8F-30CD8A875469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61ADC390-2F6A-4807-8E8F-30CD8A875469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61ADC390-2F6A-4807-8E8F-30CD8A875469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61ADC390-2F6A-4807-8E8F-30CD8A875469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9D0896-D1A7-44ED-984B-69F9AA6BFFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9D0896-D1A7-44ED-984B-69F9AA6BFFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9D0896-D1A7-44ED-984B-69F9AA6BFFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9D0896-D1A7-44ED-984B-69F9AA6BFFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C674F008-862A-4238-865B-B39BF9D639C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C674F008-862A-4238-865B-B39BF9D639C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C674F008-862A-4238-865B-B39BF9D639C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C674F008-862A-4238-865B-B39BF9D639C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B930D37-13EB-4033-AFBC-F69C4AFA83E1}
+	EndGlobalSection
+EndGlobal
